@@ -41,3 +41,5 @@ export default class Principal extends Processo {
         }
     }
 }
+
+//૮₍ ´˶• ᴥ •˶` ₎ა shoyu~
